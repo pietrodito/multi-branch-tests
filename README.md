@@ -1,3 +1,8 @@
+# Test multi branch work
+This repo serves as a test to simple (for now) multi branch work and merge.
+
+# Log
+
 Master branch:
 + Commit 1
 
